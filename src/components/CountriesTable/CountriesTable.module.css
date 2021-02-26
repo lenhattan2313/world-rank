@@ -46,6 +46,7 @@
     box-shadow: var(--box-shadow);
     font-weight: 500;
     transition: transform 100ms ease-in-out, box-shadow 100ms ease-in-out;
+    cursor: pointer;
 }
 .row:hover{
     transform:  translateY(-4px);
